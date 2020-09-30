@@ -1,0 +1,16 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import PIL
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- main.py	(revision 3a6079c69eb80742f7ce097d9e693d1081162704)
++++ main.py	(date 1601451868258)
+@@ -1,1 +1,3 @@
+-import PIL
+\ No newline at end of file
++import PIL
++
++print('asdasd')
+\ No newline at end of file
